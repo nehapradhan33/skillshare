@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="949d7d5b-8d9e-46cf-b35e-b0013a1a2f1e" kpf_version="5" name="skillshare.komodoproject">
 <preference-set idref="949d7d5b-8d9e-46cf-b35e-b0013a1a2f1e" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>
