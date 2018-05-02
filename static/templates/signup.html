@@ -5,7 +5,7 @@
                     <body>
                         <h1>Join now</h1>
                         <form method='POST' action=''>
-                           {{ form.as_p }}
+                           {{ form.as_p }} {% csrf_token %}
                             <input type='submit'>
                         </form>
                     </body>
